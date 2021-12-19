@@ -4,8 +4,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on an brazilian public company and developing applications with Laravel, Angular and Ionic.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on an brazilian public company and developing applications with Laravel, Angular, Ionic and PostgreSQL.
+- 🌱 I’m currently learning Flutter, Node.js and Svelte.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about: ... -->

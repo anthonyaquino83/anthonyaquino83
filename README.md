@@ -12,4 +12,5 @@
 - 📫 How to reach me: anthonyaquino83 (Twitter).
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I have a garden in flowerpots.
+- :tv: [Visit AnthonyDev YouTube channel](https://www.youtube.com/channel/UCRfQziviZPt-YPG-Z3Bgx3g)
 

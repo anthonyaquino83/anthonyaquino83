@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently working on an brazilian public company and developing applications with Laravel, Angular, Ionic and PostgreSQL.
 - 🌱 I’m currently learning Flutter, Svelte and Rust.
+- 📫 How to reach me: anthonyaquino83 (Twitter).
+- ⚡ Fun fact: I have a dog and a garden in flowerpots.
+- :tv: [Visit AnthonyDev YouTube channel](https://www.youtube.com/channel/UCRfQziviZPt-YPG-Z3Bgx3g)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about: ... -->
-- 📫 How to reach me: anthonyaquino83 (Twitter).
-- ⚡ Fun fact: I have a garden in flowerpots.
-- :tv: [Visit AnthonyDev YouTube channel](https://www.youtube.com/channel/UCRfQziviZPt-YPG-Z3Bgx3g)
 

@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on an brazilian public company and developing applications with Laravel, Angular, Ionic and PostgreSQL.
+- 🔭 I’m currently working in a brazilian public company and develop applications with Laravel, Angular, Ionic and PostgreSQL.
 - 🌱 I’m currently learning Flutter, Svelte and Rust.
 - 📫 How to reach me: anthonyaquino83 (Twitter).
 - ⚡ Fun fact: I have a dog and a garden in flowerpots.

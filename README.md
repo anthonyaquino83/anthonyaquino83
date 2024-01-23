@@ -4,8 +4,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working in a brazilian public company and develop applications with Laravel, Angular, Ionic and PostgreSQL.
-- 🌱 I’m currently learning Flutter, Svelte and Rust.
+- 🔭 I’m currently working in a brazilian public company and develop applications with Laravel, Angular, Ionic, Flutter and PostgreSQL.
+- 🌱 I’m currently learning Flutter, Vue and Python.
 - 📫 How to reach me: anthonyaquino83 (Twitter).
 - ⚡ Fun fact: I have a dog and a garden in flowerpots.
 - :tv: [Visit AnthonyDev YouTube channel](https://www.youtube.com/channel/UCRfQziviZPt-YPG-Z3Bgx3g)

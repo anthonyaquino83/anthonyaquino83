@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working in a brazilian public company and develop applications with Laravel, Angular, Ionic, Flutter and PostgreSQL.
 - 🌱 I’m currently learning Flutter, Vue and Python.
-- 📫 How to reach me: anthonyaquino83 (Twitter).
+- 📫 How to reach me: anthonyaquino83 (X/Twitter, X is banned in Brazil by Alexandre de Moraes).
+- 📫 How to reach me now: anthonystark (Telegram).
 - ⚡ Fun fact: I have a dog and a garden in flowerpots.
 - :tv: [Visit AnthonyDev YouTube channel](https://www.youtube.com/channel/UCRfQziviZPt-YPG-Z3Bgx3g)
 <!-- - 👯 I’m looking to collaborate on ... -->
